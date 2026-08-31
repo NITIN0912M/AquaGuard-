@@ -1,0 +1,6 @@
+{
+  "name": "HydroSense - Water Conservation & Monitoring",
+  "description": "An innovative real-time water monitoring, leak detection, and conservation system with live telemetry, automated shutoff, AI diagnostics, and sustainability analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
