@@ -3,7 +3,7 @@
 AquaGuard is an IoT-powered telemetry and conservation dashboard that mitigates residential & commercial water loss through continuous acoustic leak detection, automated solenoid isolation, and Gemini AI-driven conservation audits.
 
 ## 🚀 Live Prototype
-[Live Demo Link](https://ais-pre-ybcgyeo5k6euekzp2zxn4q-329452323518.asia-east1.run.app)
+[Live Demo Link]([https://ais-pre-ybcgyeo5k6euekzp2zxn4q-329452323518.asia-east1.run.app](https://agent-6a96ddbf646c66833--starlit-vacherin-1fc5d0.netlify.app))
 
 ## ✨ Core Features
 - **Real-Time Diurnal Telemetry**: Live flow rates (L/min), pressure (PSI), tank level monitoring, and auto-pump triggers.
