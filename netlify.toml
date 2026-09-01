@@ -1,0 +1,11 @@
+[build]
+  command = "vite build"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+[dev]
+  command = "vite"
+  targetPort = 5173
+  framework = "#custom"
